@@ -10,6 +10,6 @@ The course is designed for the most prominent students of grades 9-10, but stude
 Всем привет!
 Меня зовут Асхат Алтаевич Аубакиров, и я буду рад видеть Вас в НИШ на кружке, посвященном Биоинформатике.
 
-E-mail: aubakirov_a@prt.nis.edu.kz
+E-mail: aubakirov_a@ptr.nis.edu.kz
 E-mail: askhat.aubakirov@yahoo.com
 LinkedIn: https://www.linkedin.com/in/askhattio/
